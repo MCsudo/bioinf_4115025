@@ -17,7 +17,7 @@ Esta asignatura aporta a las siguientes competencias del perfil de egreso del ma
 
 # Tipos de Actividades
 
-I. [Adquirir habilidades.](#doc/Content.md) Entrega de contenidos en clases sincrónicas y asincrónicas, documento de lecturas.
+I. [Adquirir habilidades.](/docs/Content.md) Entrega de contenidos en clases sincrónicas y asincrónicas, documento de lecturas.
 II. Investigar y Analizar. Presentación de artículos científicos.
 III. Proyecto Final. Se desarrollará un proyecto en el curso que será diseñado para tributar en la tesis que se realizará para desarrollar un obejtivo bioinformático.
 
