@@ -6,9 +6,9 @@
 # Descripción del curso
 Curso Teórico-Práctico que incorpora las competencias requeridas para poder realizar análisis bioinformáticos de datos experimentales desde: 
 
-<li> habilidades computacionales base, 
-<li> análisis de secuencias y 
-<li> análisis estructural bioinformático. 
+* habilidades computacionales base, 
+* análisis de secuencias y 
+* análisis estructural bioinformático. 
 
 Los datos de origen biológico provenientes desde secuencias de ácidos nucleicos y proteínas son analizados por metodologías de la biología computacional con aplicaciones en bioquímica, biología molecular, ingeniería de proteínas y biotecnología. Las actividades semanales son programadas con una revisión bibliográfica desde revistas bioinformáticas y los talleres son realizados en la plataforma Jupyter con python para reforzar las habilidades de pensamiento crítico y de programación computacional, respectivamente.
 
@@ -19,9 +19,9 @@ Analizar y seleccionar en forma crítica información proveniente de fuentes div
 
 # Tipos de Actividades
 
-<lo> **[Adquirir habilidades.](Content.md)** Entrega de contenidos en clases sincrónicas y asincrónicas, documento de lecturas.
-<lo> **[Investigar y Analizar.](Journal.md)** Presentación de artículos científicos.
-<lo> **[Proyecto.](Project.md)** Se desarrollará un proyecto en el curso que será diseñado para tributar en la tesis que se realizará para desarrollar un obejtivo bioinformático.
+* **[Adquirir habilidades.](Content.md)** Entrega de contenidos en clases sincrónicas y asincrónicas, documento de lecturas.
+* **[Investigar y Analizar.](Journal.md)** Presentación de artículos científicos.
+* **[Proyecto.](Project.md)** Se desarrollará un proyecto en el curso que será diseñado para tributar en la tesis que se realizará para desarrollar un obejtivo bioinformático.
 
 # Modalidad de Clases Online
 
