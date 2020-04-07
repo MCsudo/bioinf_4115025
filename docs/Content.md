@@ -37,11 +37,13 @@ EV: Crear una carpeta con su nombre/archivos y enviar un proceso a slurm, monito
 * Conocer la arquitectura de archivos en sistemas linux. 
 * Aplicar comandos, parámetros y flags.
 * Sistema de permisos.
+
 ### SSH.
 * Usuarios e IP.
 * Conexión por SSH y transferencia de archivos.
 * Utilización de llaves
 * Software relacionado: duck, filezilla, tmux.
+
 ### Computación de alto rendimiento.
 * Cluster
 * MPI
@@ -61,24 +63,29 @@ EV: Crear un cuaderno de python para responder a un requerimiento relacionado co
 * Python
 * Conda
 * Jupyter. tener un cuaderno de jupyter funcionando localmente.
+
 ### Variables
 * cadenas
 * enteros
 * flotantes
 * operaciones
+
 ### Contenedores
 * cadenas
 * listas
 * tuplas
 * diccionarios
+
 ### Controles de Flujo
 * if, elif, else
 * for, range
 * while
+
 ### Funciones
 * def
 * variables
 * operaciones con funciones.
+
 
 ### Extras
 * Python: Webscrapping
@@ -94,30 +101,35 @@ EV: Desarrollar una función en python en cuaderno de programación para realiza
 * Biopython
 * PANDAS
 * Seaborn
+
 ### Descripción de secuencias
 * ADN
 * Proteínas
 * Obtener desde base de datos
 * Operaciones con secuencias
+
 ### Evolución Similaridad
 * Evolución
 * Organismos
 * Proteínas
 * Búsquedas por similaridad 
+
 ### Alineamiento
 * Alineamiento de pares
 * Alineamiento múltiple de secuencias
 * Análisis de alineamientos
-* 
+ 
 ### Filogenia Molecular
 * Filogenia 
 * Métodos de distancia
 * Métodos de probabilidad
 * Análisis filogenético
+
 ### Diseño de partidores
 * PCR
 * Clonamiento
 * Mutaciones Sitio diirgidas
+
 ### Extras
 * Python: Scipy
 * Python: Pingouin
@@ -133,20 +145,24 @@ EV: Desarrollar una función en python en cuaderno de programación para realiza
 * PDB format
 * Descargar PDB
 * Pymol Visualizar 3D
+
 ### Modelling.
 * Modelamiento comparativo
 * Modeller
 * Evaluación del modelo
+
 ### Docking.
 * Docking proteína-proteína
 * Docking proteína-ligando
 * Análisis de docking molecular
+
 ### Dinámica Molecular.
 * Dinámica Molecular
 * Campo de fuerza
 * Ensambles
 * Simulaciones
 * Análisis de DM
+
 ### Extras.
 * Python:Prody
 * Python: Biopandas

@@ -1,7 +1,6 @@
 # Bioinformática
-
-**Mágister de Bioquímica y Bioinformática**
-**Universidad de Concepción - Chile**
+- **Mágister de Bioquímica y Bioinformática**
+- **Universidad de Concepción - Chile**
 
 # Descripción del curso
 Curso Teórico-Práctico que incorpora las competencias requeridas para poder realizar análisis bioinformáticos de datos experimentales desde: 
@@ -25,4 +24,4 @@ Esta asignatura aporta a las siguientes competencias del perfil de egreso del ma
 
 # Modalidad de Clases Online
 
-Las clase serán online (Escenario Pandemia Covid-19), para ello se utilizará la plataforma [Canvas] (https://www.instructure.com/canvas/es), [Microsoft Team] (https://www.microsoft.com/es-es/education/products/teams) y [Github](https://github.com/). Las presentaciones de evaluación de los artículos serán a través de estas plataformas.
+Las clase serán online (Escenario Pandemia Covid-19), para ello se utilizará la plataforma [Canvas](https://www.instructure.com/canvas/es), [Microsoft Team](https://www.microsoft.com/es-es/education/products/teams) y [Github](https://github.com/). Las presentaciones de evaluación de los artículos serán a través de estas plataformas.
