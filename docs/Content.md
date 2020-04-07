@@ -1,6 +1,31 @@
 # Adquirir habilidades.
 
-[TOC]
+- [Software](#software)
+  * [Linux.](#linux)
+  * [SSH.](#ssh)
+  * [Computación de alto rendimiento.](#computaci-n-de-alto-rendimiento)
+  * [Extras [Opcional]](#extras--opcional-)
+- [Python](#python)
+  * [Python-Conda-Jupyter.](#python-conda-jupyter)
+  * [Variables](#variables)
+  * [Contenedores](#contenedores)
+  * [Controles de Flujo](#controles-de-flujo)
+  * [Funciones](#funciones)
+  * [Extras](#extras)
+- [Secuencias](#secuencias)
+  * [Módulos Python Bioinformáticos](#m-dulos-python-bioinform-ticos)
+  * [Descripción de secuencias](#descripci-n-de-secuencias)
+  * [Evolución Similaridad](#evoluci-n-similaridad)
+  * [Alineamiento](#alineamiento)
+  * [Filogenia Molecular](#filogenia-molecular)
+  * [Diseño de partidores](#dise-o-de-partidores)
+  * [Extras](#extras-1)
+- [Estructura](#estructura)
+  * [PDB.](#pdb)
+  * [Modelling.](#modelling)
+  * [Docking.](#docking)
+  * [Dinámica Molecular.](#din-mica-molecular)
+  * [Extras.](#extras)
 
 ## Software
 
@@ -108,21 +133,21 @@ EV: Desarrollar una función en python en cuaderno de programación para realiza
 * PDB format
 * Descargar PDB
 * Pymol Visualizar 3D
-### Modelling
+### Modelling.
 * Modelamiento comparativo
 * Modeller
 * Evaluación del modelo
-### Docking
+### Docking.
 * Docking proteína-proteína
 * Docking proteína-ligando
 * Análisis de docking molecular
-### Dinámica Molecular
+### Dinámica Molecular.
 * Dinámica Molecular
 * Campo de fuerza
 * Ensambles
 * Simulaciones
 * Análisis de DM
-### Extras
+### Extras.
 * Python:Prody
 * Python: Biopandas
 * Conda:Lightdock
