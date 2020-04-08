@@ -23,38 +23,72 @@ En esta sesión configuraremos un entorno de programación para aprender a progr
 * Ejecutar código Python en cuaderno Jupyter
 
 # Variables
-
 ## Conceptos clave:
 * cadenas
 * enteros
 * flotantes
+* contenedores
 * operaciones
 
 ## Lecturas
 * [Tutorial Oficial Python 3 - Pag8-16](http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf)
 
 ## Actividades
+* Crear cuaderno jupyter que incluya operaciones con las variables.
 
-
-### Contenedores
-* cadenas
-* listas
-* tuplas
-* diccionarios
-
-### Controles de Flujo
+# Controles de Flujo
 * if, elif, else
 * for, range
 * while
 
-### Funciones
+## Lecturas
+* [Tutorial Oficial Python 3 - Pag16-18](http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf)
+
+# Funciones
+## Concepctos clave:
 * def
 * variables
 * operaciones con funciones.
 
+## Lecturas
+* [Tutorial Oficial Python 3 - Pag20-25](http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf)
 
-### Extras
-* Python: Webscrapping
-* Python: Machine learning
-* Python: Plots
-* Python: GUI
+## Actividades
+
+# Estructura de Datos
+## Conceptos clave:
+* listas
+* tuplas
+* diccionarios
+* instrucción
+* iteración
+
+## Lecturas
+* [Tutorial Oficial Python 3 - Pag26-35](http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf)
+
+## Actividades
+* Operaciones con estos elementos
+* Creación de funciones para explorar datos
+
+# Extras
+
+## Python: Plots:
+    - Matplotlib
+    - Seaborn
+    - Altair
+
+## Python: GUI
+    - Tk
+
+## Python: Webscrapping
+    - Requests
+    - BeautyfulSoup
+
+[Lectura 01](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/) [Github](https://github.com/LearnDataSci/article-resources/tree/master/Ultimate%20Guide%20to%20Web%20Scraping)
+
+## Python: Machine learning
+    - Scikitlearn
+[Google Book](https://books.google.cl/books?id=GyBKDwAAQBAJ&printsec=frontcover) [Amazon Book](https://www.amazon.com/-/es/Cyrille-Rossant-ebook/dp/B079KBGPQC) [Github](https://github.com/ipython-books/cookbook-2nd-code) 
+
+## Python: Deep learning
+    - Pytorch
