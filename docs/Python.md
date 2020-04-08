@@ -73,22 +73,23 @@ En esta sesión configuraremos un entorno de programación para aprender a progr
 # Extras
 
 ## Python: Plots:
-    - Matplotlib
-    - Seaborn
-    - Altair
+    - [Matplotlib])(https://matplotlib.org) 
+    - [Seaborn](https://seaborn.pydata.org)
+    - [Altair](https://altair-viz.github.io)
 
 ## Python: GUI
-    - Tk
+    - [Tkinter](https://docs.python.org/3/library/tk.html)
 
 ## Python: Webscrapping
-    - Requests
-    - BeautyfulSoup
+    - [Requests](https://requests.readthedocs.io)
+    - [BeautyfulSoup](https://www.crummy.com/software/BeautifulSoup)
 
 [Lectura 01](https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/) [Github](https://github.com/LearnDataSci/article-resources/tree/master/Ultimate%20Guide%20to%20Web%20Scraping)
 
 ## Python: Machine learning
-    - Scikitlearn
+    - [Scikitlearn](https://scikit-learn.org)
+
 [Google Book](https://books.google.cl/books?id=GyBKDwAAQBAJ&printsec=frontcover) [Amazon Book](https://www.amazon.com/-/es/Cyrille-Rossant-ebook/dp/B079KBGPQC) [Github](https://github.com/ipython-books/cookbook-2nd-code) 
 
 ## Python: Deep learning
-    - Pytorch
+    - [Pytorch](https://pytorch.org)
