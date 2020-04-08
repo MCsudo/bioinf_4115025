@@ -1,6 +1,6 @@
 # Planificación de Contenido.
 
-Este es el contenido que iremos revisando en el curso, donde se trabajará en un contexto general y revisión de 15-20 minutos por concepto con 30 minutos de una actividad. 
+
 
 Índice de Programa
 
