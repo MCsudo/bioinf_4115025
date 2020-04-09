@@ -62,6 +62,38 @@ Instalar algunas de las siguientes distribuciones de linux:
 * Ejecutar y monitorear el trabajo.
 * Obtener los resultados
 
-## Extras [Opcional]
-* Redes
-* Base de datos
+# Extras [Opcional]
+
+## Sitios Web
+Configurar sitios web es una parte fundamental en el desarrollo de proyectos bioinformáticos hoy en día. Existen protocolos de comunicación entre los computadores como SSH, conocerlos nos permite configurar servidores y poder habilitar sitios web complejos que entreguen información o presten servicios. Conocer las bases de como funciona un servidor, como se monta un wordpress, como funcionan otros servidores que se pueden lazar desde python como flask o django. Puede ser relevante al momento de realizar un proyecto bioinformático y ponerlo a disposición de la comunidad.
+- Front-end
+- Back-end
+- Dominio Web
+- Servidor DNS
+- Servidor Apache2
+- Python-Flask
+
+## Base de datos
+Las bases de datos son esenciales para administrar datos y dar estructura a estos datos, el usos de bases de datos nos permite realizar consultas y poder análisis sofisticados de la información [Lectura de tipos de bases de datos](https://www.alooma.com/blog/types-of-modern-databases). Las bases de datos más populares en bioinformática:
+- [MySQL](https://www.mysql.com)
+- [MariaDB](https://mariadb.org)
+- [MongoDB](https://www.mongodb.com/es)
+- [Redis](https://redis.io)
+
+## Virtualización
+La virtualización se refiere a la capacidad de encapsular sistemas operativos como máquinas independientes donde configurar nuestros entornos de trabajo, realizar cálculos o levantar servicios. Aquellas que levantan computadores como máquinas totalmente autónomas son VMware y Virtualbox-Vagrant. Mientras otras más modernas se levantan en capas como son Docker.
+- [VMware](https://www.vmware.com/cl.html)
+- [VirtualBox](https://www.virtualbox.org)
+- [Docker](https://www.docker.com)
+
+## Computación en la nube.
+Varios servicios de servidores o incluso de cluster de computación se pueden contratar directo desde proveedores con sus protocolos de autorización, estos posee costos asociados que dependiendo del uso pueden llegar a ser altos para un proyecto (usese con precaución).
+- [Digital Ocean](https://www.digitalocean.com)
+- [Amazon Cloud](https://aws.amazon.com/es)
+- [Google Cloud](https://cloud.google.com)
+
+## Administración de subversiones
+EL manejo de subversiones se refiere o como se va mejorando o agregando información en forma continua para que un contenido se haga dinámico, estas herramientas están diseñadas para trabajar principalmente con texto. Gdocs posee un manejo de versiones anteriores, para textos que escribimos. Mientras para programas o sitios, es mejor utilizar Github, bitbucket también es una buena opción.
+- [Gdocs](https://www.google.com/intl/es-419_cl/docs/about)
+- [Github](https://github.com)
+- [Bitbucket](https://bitbucket.org)

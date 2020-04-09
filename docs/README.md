@@ -1,4 +1,5 @@
-# Bioinformática
+# Bioinformatica y Estructura Macromolecular - 4115025
+- **Profesor: Dr. Alexis Salas B.**
 - **Mágister de Bioquímica y Bioinformática**
 - **Universidad de Concepción - Chile**
 
@@ -39,19 +40,19 @@ Esta asignatura aporta a las siguientes competencias del perfil de egreso del ma
 
 Este es el contenido que iremos revisando en el curso, donde se trabajará en un contexto general y revisión de 15-20 minutos por concepto con 30 minutos de una actividad. 
 
-- [Software](Linux.md#entorno-de-sistema-operativo)
+- [Mes 1: Entorno de Sistema Operativo](Linux.md#entorno-de-sistema-operativo)
   * [Linux.](Linux.md#linux)
   * [SSH.](Linux.md#ssh)
   * [Computación de alto rendimiento.](Linux.md#computaci-n-de-alto-rendimiento)
   * [Extras [Opcional]](Linux.md#extras--opcional-)
-- [Python](Python.md#python)
+- [Mes 2: Programando en Python](Python.md#python)
   * [Python-Conda-Jupyter.](Python.md#python-conda-jupyter)
   * [Variables](Python.md#variables)
   * [Contenedores](Python.md#contenedores)
   * [Controles de Flujo](Python.md#controles-de-flujo)
   * [Funciones](Python.md#funciones)
   * [Extras [Opcional]](Python.md#extras)
-- [Secuencias](Sequences.md#secuencias)
+- [Mes 3: Análsis de Secuencias Biológicas](Sequences.md#secuencias)
   * [Módulos Python Bioinformáticos](Sequences.md#m-dulos-python-bioinform-ticos)
   * [Descripción de secuencias](Sequences.md#descripci-n-de-secuencias)
   * [Evolución Similaridad](Sequences.md#evoluci-n-similaridad)
@@ -59,7 +60,7 @@ Este es el contenido que iremos revisando en el curso, donde se trabajará en un
   * [Filogenia Molecular](Sequences.md#filogenia-molecular)
   * [Diseño de partidores](Sequences.md#dise-o-de-partidores)
   * [Extras [Opcional]](Sequences.md#extras)
-- [Estructura](Estructures.md#estructura)
+- [Mes 4: Análisis de Estructura de Proteínas](Estructures.md#estructura)
   * [PDB.](Estructures.md#pdb)
   * [Modelling.](Estructures.md#modelling)
   * [Docking.](Estructures.md#docking)

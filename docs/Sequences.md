@@ -61,8 +61,7 @@ EV: Desarrollar una función en python en cuaderno de programación para realiza
 ## Actividades
 
 ### Extras
-* Python: Scipy
-* Python: Pingouin
+# Python: pycogent
 * Python: primer3
 * Secuencias de membrana
 * Secuencias de sistema inmune
