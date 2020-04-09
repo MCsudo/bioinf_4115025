@@ -45,14 +45,14 @@ Este es el contenido que iremos revisando en el curso, donde se trabajará en un
   * [SSH.](Linux.md#ssh)
   * [Computación de alto rendimiento.](Linux.md#computaci-n-de-alto-rendimiento)
   * [Extras [Opcional]](Linux.md#extras--opcional-)
-- [Mes 2: Programando en Python](Python.md#python)
+- [Mes 2: Programando en Python](Python.md#Programando-en-Python)
   * [Python-Conda-Jupyter.](Python.md#python-conda-jupyter)
   * [Variables](Python.md#variables)
   * [Contenedores](Python.md#contenedores)
   * [Controles de Flujo](Python.md#controles-de-flujo)
   * [Funciones](Python.md#funciones)
   * [Extras [Opcional]](Python.md#extras)
-- [Mes 3: Análsis de Secuencias Biológicas](Sequences.md#secuencias)
+- [Mes 3: Análisis de Secuencias Biológicas](Sequences.md#An-lsis-de-Secuencias-Biol-gicas)
   * [Módulos Python Bioinformáticos](Sequences.md#m-dulos-python-bioinform-ticos)
   * [Descripción de secuencias](Sequences.md#descripci-n-de-secuencias)
   * [Evolución Similaridad](Sequences.md#evoluci-n-similaridad)
@@ -60,12 +60,12 @@ Este es el contenido que iremos revisando en el curso, donde se trabajará en un
   * [Filogenia Molecular](Sequences.md#filogenia-molecular)
   * [Diseño de partidores](Sequences.md#dise-o-de-partidores)
   * [Extras [Opcional]](Sequences.md#extras)
-- [Mes 4: Análisis de Estructura de Proteínas](Estructures.md#estructura)
-  * [PDB.](Estructures.md#pdb)
-  * [Modelling.](Estructures.md#modelling)
-  * [Docking.](Estructures.md#docking)
-  * [Dinámica Molecular.](Estructures.md#din-mica-molecular)
-  * [Extras.](Estructures.md#extras)
+- [Mes 4: Análisis de Estructura de Proteínas](Structures.md#estructura)
+  * [PDB.](Structures.md#pdb)
+  * [Modelling.](Structures.md#modelling)
+  * [Docking.](Structures.md#docking)
+  * [Dinámica Molecular.](Structures.md#din-mica-molecular)
+  * [Extras.](Structures.md#extras)
 
 ## Modalidad de Clases Online
 
@@ -73,9 +73,9 @@ Las clase serán online (Escenario Pandemia Covid-19), para ello se utilizará l
 
 ## Actividades de Evaluación
 
-* Presentación de búsqueda bibliográfica/seminario semanal (25%): Dado un journal específico cada estudiante deberá enviar un día antes del miércoles un resumen del artículo seleccionado de una hoja y una ppt de 4-6 diapositivas. Un estduiante por clase presentará en forma aleatoria.
+* Presentación de búsqueda bibliográfica/seminario semanal (25%): Dado un journal específico cada estudiante deberá enviar un día antes del miércoles un resumen del artículo seleccionado de una hoja y una presentación de 4-6 diapositivas. Un estudiante por clase presentará en forma aleatoria.
 * Presentación de las tareas (25%): Las tareas de los talleres serán revisadas por los alumnos ayudantes, el promedio de todos estos trabajos será esta nota.
-* Proyecto integrador (30%): Este proyecto deberá desarrollarse durante el semestre e incluye una presentación de 20 minutos de un tema y la aplicación de un script en Python. El escrito ponderará un 10%, el script 10%, y la presentación un 10%
+* Proyecto integrador (30%): Este proyecto deberá desarrollarse durante el semestre e incluye una presentación de 20 minutos de un tema y la aplicación de un *script* en Python. El escrito ponderará un 10%, el script 10%, y la presentación un 10%
 * Prueba final de conocimientos (20%): Examen electrónico de la asignatura.
 
 ## Bibliografía Recomendada

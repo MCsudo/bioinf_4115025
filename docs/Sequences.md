@@ -1,8 +1,13 @@
-# Secuencias
+# Análsis de Secuencias Biológicas
+El análisis de secuencias es una de las primera aplicaciones en bioinformática que aprenderemos, esta es la base para una serie de análisis posteriorres que se aplican tanto para secuencias de ADN y secuencias de proteínas, estas bases son esenciales para poder trabajar como bioinformático en análisis genómicos y estructurales.
+
+
 RA: Realizar análisis de secuencias de origen biológico.
 EV: Desarrollar una función en python en cuaderno de programación para realizar una tarea asignada de análisis de secuencias.
 
 # Módulos Python Bioinformáticos
+Para realizar análisis de secuencias primero debemos explorar algunas bibliotecas de Python que utilizaremos durante esta unidad.  
+
 ## Conceptos:
 * Biopython
 * PANDAS

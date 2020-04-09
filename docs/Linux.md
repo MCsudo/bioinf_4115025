@@ -1,10 +1,13 @@
 # Entorno de Sistema Operativo
-Este es el contenido que iremos revisando en el curso, donde se trabajará en un contexto general y revisión de 15-20 minutos por concepto con 30 minutos de una actividad. 
+Cuando se desarrollan proyectos bioinformáticos es esencial tener un conocimiento y habilidades básicas para desenvolverse en un entorno computacional. 
 
 RA: Ejecutar software en un entorno linux-terminal.
 EV: Crear una carpeta con su nombre/archivos y enviar un proceso a slurm, monitorear la ejecución y capturar los resultados.
 
+Este es el contenido que iremos revisando en el curso, donde se trabajará en un contexto general y revisión de 15-20 minutos por concepto con 30 minutos de una actividad. 
+
 # Linux. 
+El entorno de computación va ligado al sistema operativa que controla nuestro computador, en ciencias el entorno linux es el óptimo. Este sistema operativo esta en varios distribuciones de linux, donde las corrientes principales son de aquellos derivados desde Debian y RedHat. La interacción con este sistemas es a través de un entorno gráfico de lineas de comnados (sólo texto) denominado la **Terminal**. Mientras, en linux está disponible la terminal desde el primer momento, en otros sistemas operativas igual se encuentra en MacOSX está disponible como Terminal en aplicaciones, en Windows, sólo desde su versión 10, se puede habilitar este entorno. 
 
 ## Conceptos clave:
 * Distribuciones.
@@ -25,12 +28,13 @@ Instalar algunas de las siguientes distribuciones de linux:
 * [MacosX - Habilitar terminal](https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/)
 
 # Secure Shell (SSH).
+Reaizar trabajo de manera remota es una habilidad esencial de un bioinformático, esto se puede utilizar por varios protocolos, hoy en día se han popularizado las herramientas de almacenamiento en la nube como Dropbox y Google Drive. Mientras, a nivel de comunicación con un cluster o estación de trabajo se requiere enviar archivos entre computadoras donde el estándar es el protocolo SSH, que permite el ingreso a máquinas remotos, el envío de archivos, la adinistración y ejecución de trabajos.
 
 ## Conceptos clave:
 * Usuarios e IP.
 * Conexión por SSH y transferencia de archivos.
 * Utilización de llaves
-* Software relacionado: duck, filezilla, tmux.
+* Software relacionado: Duck, Filezilla, Tmux.
 
 ## Lecturas
 * [SSH protocol](https://en.wikibooks.org/wiki/OpenSSH/SSH_Protocols)
@@ -44,6 +48,7 @@ Instalar algunas de las siguientes distribuciones de linux:
 * Crear una sesión tmux.
 
 # Computación de alto rendimiento.
+Un bioinformático necesita realizar análisis de datos que pueden provenir desde experimentos de laboratorio que pueden capturar grandes volúmenes de información, como secuenciación de ADN o proteínas, citometría de flujo, imágenes de alta resolución, etc. Por otra lado también se pueden generar grandes volúmenes de información desde análisis de distintos escenarios biológicos al realizar simulaciones de sistemas complejos, en procesos de optimización y exploración de escenarios que nos guíen para evaluar hipótesis y avanzar en el conocimiento de fenómenos moleculares. El procesamiento de estos datos se realiza con un arsenal de software bioinformáticos, donde existen miles de ellos (literalmente), y los cálculos con grandes volúmnes de datos o simulaciones complejas son ejecutados en un cluster de computadores que tributan a una solución.
 
 ## Conceptos claves:
 * HPC. Cluster de computadoras

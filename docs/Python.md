@@ -1,10 +1,14 @@
-# Python
+# Programando en Python
+Un bioinformático debe ser muy hábil en al menos un lenguaje de programación. Python es un leguaje orientado a objetos de prototipado rápido que es la base para añadir usa serie de módulos (bibliotecas), que nos permiten obtener funciones para tareas más específicas. Por otra parte, nos permite realizar programas desde un nivel de poco código para analizar un dato hasta programas complejos con módulos interaz gráficas y miles de líneas de código. EL lenguaje Python ha sido ampliamnete adoptados por los científicos y junto con Java y C++ son ideales para desarrollar proyectos bioinformáticos.
+
 Este es el contenido que iremos revisando en el curso, donde se trabajará en un contexto general y revisión de 15-20 minutos por concepto con 30 minutos de una actividad. 
 
 RA: Lograr construir funciones en código python.
 EV: Crear un cuaderno de python para responder a un requerimiento relacionado con biología.
 
 # Python-Conda-Jupyter.
+Esta es una triada muy poderosa para desarrollar código en Python, nos permite evaluar y prototipar rápidamnete nuesras soluciones, por otro lados para realizar análisis de dtos es ideal, ya que nos permite organizar los datos, filtarrlos, explorarlos, hacer operaciones y visualizar los resultados en gráficos o tablas. Además, favorece el aprendizaje y la reproducibilidad de los datos y de los **experimentos**, sí experimentos en nuestro computador.
+
 En esta sesión configuraremos un entorno de programación para aprender a programar en python, prototipar nuestro código y compartir nuestros trabajos.
 
 ## Conceptos clave:
@@ -23,6 +27,8 @@ En esta sesión configuraremos un entorno de programación para aprender a progr
 * Ejecutar código Python en cuaderno Jupyter
 
 # Variables
+Las variables son los elementos básicos de datos que manipularemos en Python, estos poseen atributos específicos dependiendo de su tipo y operaciones que se pueden realizar con ellos.
+
 ## Conceptos clave:
 * cadenas
 * enteros
@@ -37,6 +43,8 @@ En esta sesión configuraremos un entorno de programación para aprender a progr
 * Crear cuaderno jupyter que incluya operaciones con las variables.
 
 # Controles de Flujo
+Con el conocimiento de las variables y operaciones con ellas podemos hacer control de flujo para el programa que diseñemos tome **decisiones** frente a distintos escenarios, estas se programan con los comandos base que a continuación aprenderemos. 
+
 * if, elif, else
 * for, range
 * while
@@ -45,6 +53,8 @@ En esta sesión configuraremos un entorno de programación para aprender a progr
 * [Tutorial Oficial Python 3 - Pag16-18](http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf)
 
 # Funciones
+Un Bioinformático que diseña una tarea y la encapssula en un código puede requerir de este en varios escenarios, este empaquetamiento primario se denomina función, que puede requerir parámetros y entregar resultados. Las funciones son la columna vertebral de un buen programa.
+
 ## Concepctos clave:
 * def
 * variables
@@ -56,6 +66,8 @@ En esta sesión configuraremos un entorno de programación para aprender a progr
 ## Actividades
 
 # Estructura de Datos
+Muchas veces desde un experimento recibimos los datos de manera cruda (raw), es decir estos necesitan una estructura para poder generar conclusiones con ellos, incluso para poder organizarlos en tablas y funciones. Estos datos se organizan elementos base los que se denominan **contenedores**, donde lso tipos de Python son las cadenas, listas, tuplas y diccionarios.
+
 ## Conceptos clave:
 * listas
 * tuplas
