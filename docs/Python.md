@@ -1,6 +1,9 @@
 # Programando en Python
 Un bioinformático debe ser muy hábil en al menos un lenguaje de programación. Python es un leguaje orientado a objetos de prototipado rápido que es la base para añadir usa serie de módulos (bibliotecas), que nos permiten obtener funciones para tareas más específicas. Por otra parte, nos permite realizar programas desde un nivel de poco código para analizar un dato hasta programas complejos con módulos interaz gráficas y miles de líneas de código. EL lenguaje Python ha sido ampliamnete adoptados por los científicos y junto con Java y C++ son ideales para desarrollar proyectos bioinformáticos.
 
+Motivaciön
+* [An Introduction to Programming for Bioscientists: A Python-Based Primer](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004867)
+
 Este es el contenido que iremos revisando en el curso, donde se trabajará en un contexto general y revisión de 15-20 minutos por concepto con 30 minutos de una actividad. 
 
 RA: Lograr construir funciones en código python.

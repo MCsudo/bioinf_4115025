@@ -90,6 +90,7 @@ La virtualización se refiere a la capacidad de encapsular sistemas operativos c
 - [VMware](https://www.vmware.com/cl.html)
 - [VirtualBox](https://www.virtualbox.org)
 - [Docker](https://www.docker.com)
+- [Singularity](https://sylabs.io)
 
 ## Computación en la nube.
 Varios servicios de servidores o incluso de cluster de computación se pueden contratar directo desde proveedores con sus protocolos de autorización, estos posee costos asociados que dependiendo del uso pueden llegar a ser altos para un proyecto (usese con precaución).

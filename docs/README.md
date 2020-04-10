@@ -25,10 +25,36 @@ Curso Teórico-Práctico que incorpora las competencias requeridas para poder re
 
 Los datos de origen biológico provenientes desde secuencias de ácidos nucleicos y proteínas son analizados por metodologías de la biología computacional con aplicaciones en bioquímica, biología molecular, ingeniería de proteínas y biotecnología. Las actividades semanales son programadas con una revisión bibliográfica desde revistas bioinformáticas y los talleres son realizados en la plataforma Jupyter con python para reforzar las habilidades de pensamiento crítico y de programación computacional, respectivamente.
 
-Esta asignatura aporta a las siguientes competencias del perfil de egreso del magíster en Bioquímica y Bioinformática:
+Esta asignatura aporta a las siguientes competencias del perfil de egreso del Magíster en Bioquímica y Bioinformática:
 
 1. Analizar y seleccionar en forma crítica información proveniente de fuentes diversas y validadas para fundamentar la investigación y formular argumentos sólidos que permitan tomar decisiones. 
-2.	Comunicar resultados y hallazgos de la investigación, mediante el manejo responsable de la información en sus diferentes modalidades, ya sea en forma oral, escrita o a través de los medios y tecnologías de la información y comunicación
+2.	Comunicar resultados y hallazgos de la investigación, mediante el manejo responsable de la información en sus diferentes modalidades, ya sea en forma oral, escrita o a través de los medios y tecnologías de la información y comunicación.
+
+## Motivación del Curriculum a Desarrollar
+
+[Bioinformática](https://es.wikipedia.org/wiki/Bioinform%C3%A1tica) es la aplicación de tecnologías computacionales y la estadística a la gestión y análisis de datos biológicos. 
+
+* 10 años de experiencia de encargado de curso.
+* [A Quick Guide for Developing Effective Bioinformatics Programming Skills](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000589)
+* [An Online Bioinformatics Curriculum](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002632)
+* [Bioinformatics core competencies for undergraduate life sciences education](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196878)
+
+## Competencias Generales.
+
+1.	Amplio conocimiento de temas relacionados con la biología. No hace falta ser un experto en biología, pero sí es necesario saber qué tipo de información que se está trabajando. Es especialmente útil saber acerca de la biología molecular, celular y genética.
+2.	Competencias de comunicación. Un bioinformático debe ser capaz de comunicar información compleja a profesionales con una formación  en el área de las biología o la informática. Esta incluye una excelente redacción y documentación del trabajo realizado. 
+3.	Competencias de trabajo en equipo. Un bioinformático no puede trabajar independientemente, buenos trabajos necesitan de varios profesionales y aproximaciones interdisciplinarias.
+4.	Competencia de trabajo bajo presión y con múltiples tareas. Esto puede ser un trabajo de alta presión con plazos que han de cumplirse. Debe poseer una alta capacidad de organización, planificación  y de asignación de prioridades.
+5.	Competente en un lenguaje de programación. El comprender la lógica e implementación de algoritmos permitirá desarrollar pequeños códigos (scripts) que permitan optimizar o realizar nuevas tareas eficientemente.
+
+## Competencias específicas.
+
+1.	Linux básico. Sí se encuentra en un nivel de administración es aún mejor. Se recomienda instalar Linux en su computadora y utilizarla exclusivamente por un tiempo.
+2.	Programación básica de Bash. El manejo óptimo de la terminal y tareas de procesos cotidianas pueden ser realizadas con algunos poco comandos.
+3.	Competente en lenguaje de programación. Durante este curso se trabajará con Python. Incluyendo el módulo “biopython”, “prody”, entre otros.
+4.	Altamente competente en aplicaciones bioinformáticas. Aplicaciones en análisis de secuencias y análisis estructural con un dominio de las bases biológicas. Matemáticas e informáticas utilizadas por cada aplicación.
+5.	Altamente competente servidores de herramientas bioinformáticas. Como el Centro Nacional de Bioinformática (NCBI), EBI y EMBOSS. 
+
 
 ## Tipos de Actividades
 
