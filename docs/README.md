@@ -31,7 +31,6 @@ Esta asignatura aporta a las siguientes competencias del perfil de egreso del Ma
 2.	Comunicar resultados y hallazgos de la investigación, mediante el manejo responsable de la información en sus diferentes modalidades, ya sea en forma oral, escrita o a través de los medios y tecnologías de la información y comunicación.
 
 ## Motivación del Curriculum a Desarrollar
-
 [Bioinformática](https://es.wikipedia.org/wiki/Bioinform%C3%A1tica) es la aplicación de tecnologías computacionales y la estadística a la gestión y análisis de datos biológicos. 
 
 * 10 años de experiencia de encargado de curso.
@@ -40,7 +39,6 @@ Esta asignatura aporta a las siguientes competencias del perfil de egreso del Ma
 * [Bioinformatics core competencies for undergraduate life sciences education](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196878)
 
 ## Competencias Generales.
-
 1.	Amplio conocimiento de temas relacionados con la biología. No hace falta ser un experto en biología, pero sí es necesario saber qué tipo de información que se está trabajando. Es especialmente útil saber acerca de la biología molecular, celular y genética.
 2.	Competencias de comunicación. Un bioinformático debe ser capaz de comunicar información compleja a profesionales con una formación  en el área de las biología o la informática. Esta incluye una excelente redacción y documentación del trabajo realizado. 
 3.	Competencias de trabajo en equipo. Un bioinformático no puede trabajar independientemente, buenos trabajos necesitan de varios profesionales y aproximaciones interdisciplinarias.
@@ -48,7 +46,6 @@ Esta asignatura aporta a las siguientes competencias del perfil de egreso del Ma
 5.	Competente en un lenguaje de programación. El comprender la lógica e implementación de algoritmos permitirá desarrollar pequeños códigos (scripts) que permitan optimizar o realizar nuevas tareas eficientemente.
 
 ## Competencias específicas.
-
 1.	Linux básico. Sí se encuentra en un nivel de administración es aún mejor. Se recomienda instalar Linux en su computadora y utilizarla exclusivamente por un tiempo.
 2.	Programación básica de Bash. El manejo óptimo de la terminal y tareas de procesos cotidianas pueden ser realizadas con algunos poco comandos.
 3.	Competente en lenguaje de programación. Durante este curso se trabajará con Python. Incluyendo el módulo “biopython”, “prody”, entre otros.
@@ -57,7 +54,6 @@ Esta asignatura aporta a las siguientes competencias del perfil de egreso del Ma
 
 
 ## Tipos de Actividades
-
 * [Planificación de Contenido.](#curriculum) Entrega de contenidos en clases sincrónicas y asincrónicas, documento de lecturas.
 * [Investigar y Analizar.](Journal.md) Presentación de artículos científicos.
 * [Proyecto.](Project.md) Se desarrollará un proyecto en el curso que será diseñado para tributar en la tesis que se realizará para desarrollar un obejtivo bioinformático.
@@ -94,18 +90,15 @@ Este es el contenido que iremos revisando en el curso, donde se trabajará en un
   * [Extras.](Structures.md#extras)
 
 ## Modalidad de Clases Online
-
 Las clase serán online (Escenario Pandemia Covid-19), para ello se utilizará la plataforma [Canvas](https://www.instructure.com/canvas/es), [Microsoft Team](https://www.microsoft.com/es-es/education/products/teams) y [Github](https://github.com/). Las presentaciones de evaluación de los artículos serán a través de estas plataformas.
 
 ## Actividades de Evaluación
-
 * Presentación de búsqueda bibliográfica/seminario semanal (25%): Dado un journal específico cada estudiante deberá enviar un día antes del miércoles un resumen del artículo seleccionado de una hoja y una presentación de 4-6 diapositivas. Un estudiante por clase presentará en forma aleatoria.
 * Presentación de las tareas (25%): Las tareas de los talleres serán revisadas por los alumnos ayudantes, el promedio de todos estos trabajos será esta nota.
 * Proyecto integrador (30%): Este proyecto deberá desarrollarse durante el semestre e incluye una presentación de 20 minutos de un tema y la aplicación de un *script* en Python. El escrito ponderará un 10%, el script 10%, y la presentación un 10%
 * Prueba final de conocimientos (20%): Examen electrónico de la asignatura.
 
 ## Bibliografía Recomendada
-
 *	Antao, Tiago. Bioinformatics with Python Cookbook: Learn How to Use Modern Python Bioinformatics Libraries and Applications to Do Cutting-Edge Research in Computational Biology, 2nd Edition. Edición: 2. Packt Publishing, 2018. ISBN-13: 978-1789344691. [Google Book](https://books.google.cl/books?id=ii59DwAAQBAJ&printsec=frontcover) | [Amazon Book](https://www.amazon.com/-/es/Tiago-Antao-ebook/dp/B07FNYFS9V) | [Github](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition) 
 *	Bessant, Conrad, Darren Oakley, and Ian Shadforth. Building Bioinformatics Solutions 2nd Edition. Edición: 2. Oxford, United Kingdom ; New York, NY, United States of America: Oxford University Press, 2014. ISBN-13 978-0199658565. [Google Book](https://books.google.cl/books?id=vkueAgAAQBAJ&printsec=frontcover) | [Amazon Book](https://www.amazon.com/Building-Bioinformatics-Solutions-Conrad-Bessant/dp/0199658560)
 *	Lesk. Introduction To Bioinformatics. Edición: 5. Oxford, United Kingdom: Oxford University Press, 2019. ISBN-13: 978-0198794141. [Google Book](https://books.google.cl/books?id=xYmcAQAAQBAJ&printsec=frontcover) | [Amazon Book](https://www.amazon.com/-/es/Lesk/dp/0198794142)

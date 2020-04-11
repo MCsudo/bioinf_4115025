@@ -58,6 +58,7 @@ Conceptos:
 
 ## Lecturas
 * [Evolución molecular](https://en.wikipedia.org/wiki/Molecular_evolution)
+* [La evolución de familia de proteínas](https://doi.org/10.1016/B978-0-12-809633-8.20268-9)
 * [Matrices de sustitución](https://es.wikipedia.org/wiki/Matriz_de_sustituci%C3%B3n)
 * [Algoritmo de Needleman-Wunsch](https://es.wikipedia.org/wiki/Algoritmo_Needleman-Wunsch)
 * [Algoritmo de Smith-Waterman](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm)
@@ -73,8 +74,8 @@ Conceptos:
 El alineamiento de secuencias es una de las herramientas básicas de un biuoinformático y se utiliza para extrapolar información desde organismos, genes y proteínas conocidas a otros. También, se utiliza para identificar patrones relacionados a una función y estudiar las variaciones de las secuencias en el tiempo. El alinemaiento de secuencias es una herramienta bases para las búsquedad por similaridad, los análisis de conservación, la reconstrucción de filogenia y el modelamiento comparativo de proteínas.
 
 ## Conceptos:
-* Alineamiento de pares
-* Alineamiento múltiple de secuencias
+* [Alineamiento de pares](https://doi.org/10.1016/B978-0-12-809633-8.20317-8)
+* [Alineamiento múltiple de secuencias](https://doi.org/10.1016/B978-0-12-809633-8.20318-X)
 * Análisis de alineamientos
 
 ## Lecturas
@@ -139,17 +140,17 @@ El diseño de partidores es una herramienta fundamental en biología molecular, 
 ## Secuencias de membrana
 Las proteínas de membrana se clasifican como receptores, transportadores y canales iónicos. Estas proteínas se forman principalmente empacando hélices transmembrana de 15-35 aminoácidos de largo en orientación perpendicular a la membrana lipídica. Estas restricciones impuestas por la membrana de caracter hidrofóbico permitieorn identificar proteínas de membrana desde sus seccuencias por los perfiles de hidrofobicida que estas generaban. Luego con las cristalización de proteínas de membrana y la obtención de la disposición tridimensional de sus átomos se refinaron estas herramientas, existiendo herramientas bioinformáticas especiales para secuencias de proteína de membrana.
 
-* Predicción de proteínas transmebrana.
-* Predicción de tologías de proteinas de membrana.
-* bases de datos de proteínas de membrana.
+* Predicción de proteínas transmebrana
+* [Predicción de tologías de proteinas de membrana](https://doi.org/10.1016/B978-0-12-809633-8.20269-0)
+* bases de datos de proteínas de membrana
 [Topcons](http://topcons.cbr.su.se)|[Memsat3](http://bioinf.cs.ucl.ac.uk/software_downloads/memsat)|[TCDB](http://www.tcdb.org/)|[MPKS](https://blanco.biomol.uci.edu/mpstruc)
 
 ## Secuencias de sistema inmune
 Las secuencias y estructuras presentes en el sistema inmune deben tener patrones de reconocimeinto que nos entregan la capacidad de reconocer lo que pertenece a nuestro organismo de lo extraño. Esta funcionalidad se basa en la capacidad de combinatoria que es posible de generar nuestro sistema inmune y las interacciones moleculares del reconocimiento entre proteínas y proteínas u otros agentes moleculares. El reconcimiento de epítopes para el diseño de vacunas, la desinmunización, el reconocimiento por MHC, TLR, anticuerpos, entre otros aspectos puede ser estudiado por métodos bioinformáticos. Incluse se ha denominado inmunoinformática a esta área que estudia estos mecanismo aplicando técnicas computacionales.
 
-* [Predicción de epitopes](https://www.sciencedirect.com/science/article/pii/S1532046414002330)
+* [Bases de datos inmunoinformáticas](https://doi.org/10.1016/B978-0-12-809633-8.20469-X)
+* [Predicción de epitopes](https://doi.org/10.1016/B978-0-12-809633-8.20248-3)|[Herramientas bioinformáticas](https://www.sciencedirect.com/science/article/pii/S1532046414002330)
 * [Predicción de estructuras de TCR](https://www.blopig.com/blog/2020/03/tcrbuilder-multi-state-t-cell-receptor-structure-prediction)
-* Diseño de anticuerpos [Reference])(https://academic.oup.com/bioinformatics/article/36/7/2126/5645171)
+* Diseño de anticuerpos [Referencia])(https://academic.oup.com/bioinformatics/article/36/7/2126/5645171)
 * Estructura de regiones determinantes de la complemetariedad (CDR)
 * Desinmunización
-* Bases de datos de anticuerpos
